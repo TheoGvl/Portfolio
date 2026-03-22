@@ -24,6 +24,21 @@ header {
     border-bottom: 3px solid var(--accent-purple);
 }
 
+.profile-pic-container {
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.profile-pic {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid var(--accent-purple);
+    box-shadow: 0 4px 15px rgba(184, 119, 219, 0.4);
+    object-fit: cover; /* Ensures the image fills the circle neatly */
+}
+
 header h1 {
     margin: 0;
     font-size: 2.8rem;
