@@ -18,12 +18,6 @@ A modern, responsive personal portfolio website built to showcase my academic jo
 * `style.css`: The stylesheet defining the dark theme, colors, layout, and profile picture styling.
 * `image_1.webp`: The personal profile picture used in the header.
 
-## How to Run Locally
-1.  Clone this repository to your local machine:
-    git clone [https://github.com/TheoGvl/YOUR-REPO-NAME-HERE.git](https://github.com/TheoGvl/YOUR-REPO-NAME-HERE.git)
-2.  Navigate to the project folder. Ensure all three files (`index.html`, `style.css`, and `image_1.webp`) are in the same folder.
-3.  Open the `index.html` file directly in any web browser, or use an extension like **Live Server** in Visual Studio Code for live reloading.
-
 ## About the Author
 **Theofilos Geivelis**
 * 3rd-year Computer Science and Telecommunication Student at the University of Ioannina (Arta).
